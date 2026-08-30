@@ -50,8 +50,8 @@ int main()
 	Insert('C', 'B');
 
 	if (Identify)
-		std::cout << "�߰�";
-	else std::cout << "�̹߰�";
+		std::cout << "¹ß°ß";
+	else std::cout << "¹Ì¹ß°ß";
 
 	return 0;
 }
